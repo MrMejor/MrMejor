@@ -13,7 +13,7 @@
   </a>
 </p>
 
-![Jashanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMejor&show_icons=true&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrMejor&theme=dark)
+![Jashanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMejor&show_icons=true&theme=gruvbox&bg_color=000000)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrMejor&theme=dark)
 ### ⚡ Tech Stack:
 
 **Programming Languages:**  
