@@ -29,12 +29,10 @@
 - [🌎 Global Regions Explorer](https://github.com/MrMejor/global-regions-explorer) – A tool to explore countries and continents.
 - [💻 Portfolio Website](https://github.com/MrMejor/portfolio) – My personal portfolio showcasing my work.
 
-**Contact**
-* X: @MrMejor_
-* LinkedIn: linkedin.com/in/jashanjeet-singh-kuka-9846881b3
-* GitHub: github.com/MrMejor
 ## 🌍 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jashanjeet-singh-kuka-9846881b3)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MrMejor)  
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle) 
 
 <!---
 MrMejor/MrMejor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
