@@ -1,3 +1,18 @@
+<h2 align="center">Hi 👋🏻! My name is <a href="https://www.linkedin.com/in/jashanjeet-singh-kuka-9846881b3">Jashan</a></h2>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jashanjeet-singh-kuka-9846881b3">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/MrMejor">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  </a>
+  <a href="https://twitter.com/MrMejor_">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white">
+  </a>
+</p>
+
 ![Jashanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMejor&show_icons=true&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrMejor&theme=dark)
 ### ⚡ Tech Stack:
 
@@ -19,8 +34,6 @@
 - [🌎 Global Regions Explorer](https://github.com/MrMejor/global-regions-explorer) – A tool to explore countries and continents.
 - [💻 Portfolio Website](https://github.com/MrMejor/portfolio) – My personal portfolio showcasing my work.
 
-## 🌍 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jashanjeet-singh-kuka-9846881b3) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MrMejor)  [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle) 
 
 <!---
 MrMejor/MrMejor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
