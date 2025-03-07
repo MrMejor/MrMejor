@@ -27,3 +27,5 @@ You can click the Preview link to take a look at your changes.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+![Jashanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrMejor&show_icons=true&theme=radical)
+
