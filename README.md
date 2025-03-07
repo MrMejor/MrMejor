@@ -4,10 +4,24 @@
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-**Skills**
-* Programming languages: Java, Python, Java Script, Jira, AWS, Docker
-* Frameworks: Spring, Angular, React
-* Databases: MySQL, PostgreSQL, NoSQL
+
+### ⚡ Tech Stack:
+
+**Programming Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
+
+**Frameworks & Libraries:**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+
+**Tools & Platforms:**  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)  
+
 
 **Projects**
 * [Project 1](https://github.com/your-username/project1)
