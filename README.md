@@ -2,10 +2,8 @@
 ### ⚡ Tech Stack:
 
 **Programming Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+ 
 
 **Frameworks & Libraries:**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
