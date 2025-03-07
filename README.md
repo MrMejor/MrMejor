@@ -25,9 +25,9 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)  
 
 
-**Projects**
-* [Project 1](https://github.com/your-username/project1)
-* [Project 2](https://github.com/your-username/project2)
+## 🔥 Featured Projects
+- [🌎 Global Regions Explorer](https://github.com/MrMejor/global-regions-explorer) – A tool to explore countries and continents.
+- [💻 Portfolio Website](https://github.com/MrMejor/portfolio) – My personal portfolio showcasing my work.
 
 **Contact**
 * X: @MrMejor_
