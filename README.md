@@ -35,7 +35,7 @@
 ---
 
 ## 🔥 **Featured Projects**
-📌 **[🧮 Calculator](https://github.com/MrMejor/calculador)** – A tool to explore countries and continents.  
+📌 **[🧮 Calculator](https://github.com/MrMejor/Calculadora.git)** – A tool to explore countries and continents.  
 📌 **[🌎 Global Regions Explorer](https://github.com/MrMejor/global-regions-explorer)** – A tool to explore countries and continents.  
 📌 **[💻 Portfolio Website](https://github.com/MrMejor/portfolio)** – My personal portfolio showcasing my work.  
 
