@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋🏻! I'm <a href="https://www.linkedin.com/in/jashanjeet-singh-kuka-9846881b3">Jashan</a></h1>  
+<p align="center">🖥️ Web Developer | 🚀 Tech Enthusiast 
 
 <p align="center">
   <a href="mailto:Jashanjeet2001@gmail.com">
