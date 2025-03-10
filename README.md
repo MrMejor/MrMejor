@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋🏻! I'm <a href="https://www.linkedin.com/in/jashanjeet-singh-kuka-9846881b3">Jashan</a></h1>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrMejor&color=blue">
+</p>
 <p align="center">🖥️ Web Developer | 🚀 Tech Enthusiast 
 
 <p align="center">
@@ -93,13 +96,3 @@
 </table>
 
 ---
-
-## 🌍 **Let's Connect**
-💬 **Got a project or want to chat?**  
-📧 **Email:** [Jashanjeet2001@gmail.com](mailto:Jashanjeet2001@gmail.com)  
-💼 **LinkedIn:** [Jashan](https://www.linkedin.com/in/jashanjeet-singh-kuka-9846881b3)  
-🐦 **Twitter (X):** [@MrMejor_](https://twitter.com/MrMejor_)  
-💻 **GitHub:** [MrMejor](https://github.com/MrMejor)  
-
----
-![Visitor Count](https://komarev.com/ghpvc/?username=MrMejor&color=blue)
